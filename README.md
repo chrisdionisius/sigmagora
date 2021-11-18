@@ -19,7 +19,7 @@ A web forum
 -   Create-Make threads
     ![screenshot](img/thread.png)
     ![screenshot](img/New Thread.png)
-    ![screenshot](img/Manage Threads.png)
+    ![screenshot](img/Manage threads.png)
 -   Tags-Categories
     ![screenshot](img/categories.png)
 -   Register-Login
