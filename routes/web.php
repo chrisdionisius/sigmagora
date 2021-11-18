@@ -14,7 +14,7 @@ Route::get('/', 'HomeController@dashboard')->name('dashboard');
 
 Auth::routes();
 Route::post('/update_profile','ProfileController@update');
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'HomeController@dashboard')->name('dashboard');
 Route::get('/index', 'ThreadController@index')->name('index');
 Route::get('/test', 'ThreadController@test');
 

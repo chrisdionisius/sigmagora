@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Forum - Responsive HTML5 Template</title>
+    <title>Login - Sigmagora</title>
     <meta name="keywords" content="HTML5 Template">
     <meta name="description" content="Forum - Responsive HTML5 Template">
     <meta name="author" content="Forum">
@@ -38,7 +38,7 @@
                     <a href="index.html" class="tt-block-title">
                         <img src="images/logo.png" alt="">
                         <div class="tt-title">
-                            Welcome to Forum19
+                            Welcome to Sigmagora
                         </div>
                         <div class="tt-description">
                             Log into your account to unlock true power of community.
@@ -121,7 +121,8 @@
                                 </div>
                             </div>
                         </div>
-                        <p>Don’t have an account? <a href="{{ route('register') }}" class="tt-underline">Signup here</a></p>
+                        <p>Don’t have an account? <a href="{{ route('register') }}" class="tt-underline">Signup here</a>
+                        </p>
                         <div class="tt-notes">
                             By Logging in, signing in or continuing, I agree to
                             Forum19’s <a href="#" class="tt-underline">Terms of Use</a> and <a href="#"
