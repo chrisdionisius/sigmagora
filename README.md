@@ -18,8 +18,8 @@ A web forum
     ![screenshot](img/dashboard.png)
 -   Create-Make threads
     ![screenshot](img/thread.png)
-    ![screenshot](img/New Thread.png)
-    ![screenshot](img/Manage threads.png)
+    ![screenshot](img/New_Thread.png)
+    ![screenshot](img/Manage_threads.png)
 -   Tags-Categories
     ![screenshot](img/categories.png)
 -   Register-Login
